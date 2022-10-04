@@ -8,3 +8,7 @@
 - Cannot create a user with invalid cpf
 - Cannot create a user with invalid phone
 - Cannot create a user with invalid email
+
+## Run Project
+- yarn or npm install
+- yarn jest or npx jest
